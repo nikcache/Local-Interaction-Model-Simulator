@@ -1,0 +1,1 @@
+To run the project, launch main.py
